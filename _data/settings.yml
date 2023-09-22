@@ -18,14 +18,16 @@ menu__settings:
       url: "/authors/"
     #- title: "Videos"
     #  url: "/videos/"
-    - title: "Pages"
-      submenu:
-        #- url: "/about/"
-        #  title: "About"
-        - url: "/contact/"
-          title: "Contact"
-        #- url: "/elements/"
-        #  title: "Elements"
+    - title: "Contact"
+      url: "/contact/"
+    #- title: "Pages"
+    #submenu:
+    #- url: "/about/"
+    #  title: "About"
+    #- url: "/contact/"
+    #  title: "Contact"
+    #- url: "/elements/"
+    #  title: "Elements"
 
 #-------------------------------
 # Hero Settings
