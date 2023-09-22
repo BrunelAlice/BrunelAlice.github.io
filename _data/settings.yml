@@ -1,0 +1,131 @@
+---
+#-------------------------------
+# Site Settings
+title: Alice in Webderland
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Life as a front-end web developer
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - title: "Blog"
+      url: "/blog/"
+    - title: "Authors"
+      url: "/authors/"
+    #- title: "Videos"
+    #  url: "/videos/"
+    - title: "Pages"
+      submenu:
+        - url: "/about/"
+          title: "About"
+        - url: "/contact/"
+          title: "Contact"
+        #- url: "/elements/"
+        #  title: "Elements"
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: Embrace the Dev life 🪔
+  hero__description: Let's speak about Tech, baby, with simplicity and authenticity. Here, I will share everything about my quest to become an inspired coder who lives in her own Web Wonderland.
+  hero__image: "https://cdn.midjourney.com/cc0ff064-512e-4757-914b-b933e640b12a/0_1.png"
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: Alice Brunel
+  author__bio: Front-end freelancer embracing a mindful coder lifestyle, I like to share about my journey from self-teaching to bootcamp graduate, and the life as a very shy but enthusiast freelancer.
+  author__avatar: /images/01-1.jpg
+
+#-------------------------------
+# Blog Section Settings
+blog__settings:
+  enable: false
+  blog__title: Latest Posts
+  blog__description:
+
+#-------------------------------
+# Videos Section Settings
+videos__settings:
+  enable: false
+  videos__title: Latest Videos
+  videos__description:
+
+#-------------------------------
+# Tag Section Settings
+tag__settings:
+  enable: true
+  tag: CS50 # To display the tag section, specify your favorite tag.
+
+#-------------------------------
+# Author Section Settings
+author__section:
+  enable: false
+  author__section__title: Hi! I'm Alice, living in my own tech wonderland.
+  author__section__description: I'm an a front-end developer working with MERN stack and curious about the whole tech world. I work as a freelance and I am happy to contribute to many type of projects, so let's get in touch !
+  aurhor__section__button__text: More About Me
+  aurhor__section__button__link: /about
+  author__section__big__image: /images/100.jpg
+  author__section__small__image: /images/101.jpg
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  enable: false
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__input__text: Your email address
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: /images/subscribe-bg.jpg
+
+#-------------------------------
+# Footer Settings
+footer__description: A front-end developer journey through the Tech Wonderland, to make sure the ride keeps being fun and inspirational.
+
+# Social Links
+social:
+  #- { icon: "twitter", link: "https://twitter.com" }
+  #- { icon: "facebook", link: "https://facebook.com" }
+  #- { icon: "codepen", link: "https://codepen.io" }
+  #- { icon: "pinterest", link: "https://pinterest.com" }
+  #- { icon: "vimeo", link: "https://vimeo.com" }
+  - { icon: "github", link: "https://github.com/BrunelAlice" }
+  - { icon: "linkedin", link: "https://www.linkedin.com/in/alicebrunel/" }
+
+# Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "Contact"
+      url: "/contact/"
+    #- title: "Elements"
+    #  url: "/elements/"
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: Hey there! While I'm happily engaged in my current roles and not on the lookout for more projects, I'm always up for some tech-related fun. Feel free to connect with me on LinkedIn for a chat, some code-related banter, or even just to share cat memes. 😄 If you're itching to be a part of the blog or have some brilliant ideas to contribute, don't hesitate to drop me a line. Let's team up and make the web a cozier place!
+
+# NOTE
+# Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: alicebrunel # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
