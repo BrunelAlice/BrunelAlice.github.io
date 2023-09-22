@@ -1,7 +1,7 @@
 /* Color Scheme */
 
 :root {
-  --brand-color: #0056fe;
+  --brand-color: #8c472e;
   --white: #fff;
   --light-gray: #f0f0f0;
   --light-blue: #f3f7ff;
@@ -10,15 +10,19 @@
   --dark: #0c101a;
   --dark-blue: #040b1f;
   --rgb-image-color: 255, 255, 255;
-  
-  --image-gradient: linear-gradient(180deg, rgba(var(--rgb-image-color), 0.8), rgba(var(--rgb-image-color), 1));
+
+  --image-gradient: linear-gradient(
+    180deg,
+    rgba(var(--rgb-image-color), 0.8),
+    rgba(var(--rgb-image-color), 1)
+  );
 
   --background-color: var(--white);
   --background-alt-color: var(--light-blue);
-  
+
   --text-color: var(--dark-blue);
   --text-alt-color: var(--blue-gray);
-  
+
   --heading-font-color: var(--dark-blue);
 
   --link-color: var(--dark-blue);
@@ -38,22 +42,26 @@
 }
 
 :root[dark] {
-  --brand-color: #0073ec;
+  --brand-color: #8c472e;
   --white: #fff;
   --light-gray: #f0f0f0;
   --gray: #bdbdbd;
   --dark: #1f2934;
   --dark-blue: #161d26;
   --rgb-image-color: 22, 29, 38;
-  
-  --image-gradient: linear-gradient(180deg, rgba(var(--rgb-image-color), 0.8), rgba(var(--rgb-image-color), 1));
+
+  --image-gradient: linear-gradient(
+    180deg,
+    rgba(var(--rgb-image-color), 0.8),
+    rgba(var(--rgb-image-color), 1)
+  );
 
   --background-color: var(--dark-blue);
   --background-alt-color: var(--dark);
-  
+
   --text-color: var(--gray);
   --text-alt-color: var(--gray);
-  
+
   --heading-font-color: var(--light-gray);
 
   --link-color: var(--light-gray);
@@ -66,7 +74,7 @@
   --border-color: #252629;
   --border-color-alt: #080b12;
 
-  --th-color: #18181d;;
+  --th-color: #18181d;
   --tr-color: #080b12;
 
   --syntax-highlighting-background: #080b12;

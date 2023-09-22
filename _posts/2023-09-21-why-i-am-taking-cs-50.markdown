@@ -6,7 +6,7 @@ date: 2023-09-21 10:00:00 +0300
 author: alice
 image: "https://media.discordapp.net/attachments/1090258524971475017/1154752894680182806/mllebee_latina_woman_from_behind_in_a_British_library_working_o_a30def02-9296-4f6b-a85b-69784ca3fff3.png?width=767&height=767"
 tags: [CS50]
-tags_color: "#cb4949"
+tags_color: "#BF8069"
 featured: false
 ---
 
