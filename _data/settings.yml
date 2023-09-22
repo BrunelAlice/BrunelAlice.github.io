@@ -20,8 +20,8 @@ menu__settings:
     #  url: "/videos/"
     - title: "Pages"
       submenu:
-        - url: "/about/"
-          title: "About"
+        #- url: "/about/"
+        #  title: "About"
         - url: "/contact/"
           title: "Contact"
         #- url: "/elements/"
