@@ -6,7 +6,7 @@ date: 2023-09-01 10:00:00 +0300
 author: alice
 image: "https://cdn.midjourney.com/cc0ff064-512e-4757-914b-b933e640b12a/0_1.png"
 tags: [freelance life]
-tags_color: "#F2DFED"
+tags_color: "#86989B"
 featured: true
 ---
 
