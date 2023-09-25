@@ -1,7 +1,7 @@
 ---
 #-------------------------------
 # Site Settings
-title: Alice in Webderland
+title: Whispers of the Digital Path
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Life as a front-end web developer
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -33,8 +33,8 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Embrace the Dev life 🪔
-  hero__description: Let's speak about Tech, baby, with simplicity and authenticity. Here, I will share everything about my quest to become an inspired coder who lives in her own Web Wonderland.
+  hero__title: A Romantic Web Developer's Diary 🕯️
+  hero__description: Within the pages of this daily diary, I share my ideas about the tech world and paint a vivid portrait of the life and challenges faced by a romantic web developer in 2023.
   hero__image: "https://cdn.midjourney.com/cc0ff064-512e-4757-914b-b933e640b12a/0_1.png"
 
 #-------------------------------
@@ -62,7 +62,7 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: true
-  tag: CS50 # To display the tag section, specify your favorite tag.
+  tag: Diary # To display the tag section, specify your favorite tag.
 
 #-------------------------------
 # Author Section Settings

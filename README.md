@@ -9,13 +9,6 @@ Mria is a high-quality multipurpose Jekyll theme with a unique style and clean c
 Check the theme in action [Live Demo](https://mria.netlify.app/) |
 [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
-tag colors :
-
-- #F2DFED
-- #3E5659
-- #593325
-- #BF8069
-
 ---
 
 ### Theme features
