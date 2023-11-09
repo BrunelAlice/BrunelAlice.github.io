@@ -1,9 +1,9 @@
 ---
 #-------------------------------
 # Site Settings
-title: Whispers of the Digital Path
+title: Coding whispers
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Life as a front-end web developer
+description: Infusing a warm glow into coding through words.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 #-------------------------------
@@ -33,8 +33,8 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: A Romantic Web Developer's Diary 🕯️
-  hero__description: Within the pages of this daily diary, I share my ideas about the tech world and paint a vivid portrait of the life and challenges faced by a romantic web developer in 2023.
+  hero__title: A cozy corner for coders 🕯️
+  hero__description: By transforming code into words I aspire to create a snug space where I can share my discoveries with every developer looking for ideas, tips and comfort.
   hero__image: "https://cdn.midjourney.com/cc0ff064-512e-4757-914b-b933e640b12a/0_1.png"
 
 #-------------------------------
@@ -62,7 +62,7 @@ videos__settings:
 # Tag Section Settings
 tag__settings:
   enable: true
-  tag: Diary # To display the tag section, specify your favorite tag.
+  tag: tutorials # To display the tag section, specify your favorite tag.
 
 #-------------------------------
 # Author Section Settings
@@ -88,7 +88,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: A romantic front-end developer's story, to make sure the journey stay an inspired one.
+footer__description: Infusing a warm glow into coding through words.
 
 # Social Links
 social:

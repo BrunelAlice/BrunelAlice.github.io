@@ -5,7 +5,7 @@ description: Decorate your GitHub profile and projects with stylish badges that 
 date: 2023-09-25 10:00:00 +0300
 author: alice
 image: "https://media.discordapp.net/attachments/1090258524971475017/1155839581405581312/mllebee_just_a_few_badges_on_the_wall_photography_quality_4k_83832a61-34e8-41d8-886c-6e94d88589cf.png?width=767&height=767"
-tags: [Resources]
+tags: [tutorials]
 tags_color: "#176A73"
 featured: true
 ---
